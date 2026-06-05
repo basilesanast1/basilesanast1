@@ -24,7 +24,7 @@ I'm a developer and hardware enthusiast focused on **security, embedded systems,
 
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github)
+![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github,bots,html)
 
 ---
 
