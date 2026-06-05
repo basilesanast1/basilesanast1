@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a developer and hardware enthusiast focused on **security, embedded systems, and making things that actually run in the real world**. I make software because I can, and because it's really fun.
+I'm a developer, hardware enthusiast and overall a typical high schooler. Sometimes I write garbage code and act surprised when it doesn't work.
 
 ---
 
@@ -14,26 +14,18 @@ I'm a developer and hardware enthusiast focused on **security, embedded systems,
 
 ---
 
-## ⚙️ Current Focus
-
-- Embedded security research
-- Microcontroller-based tools & devices
-- Hardware hacking projects
-
----
-
 ## 🧰 Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github,bots,html)
 
 ---
 
-## 🧪 Projects Ideas (What I'm working on / building)
+## 🧪 What I'm working on
 
-- USB-based automation tools for testing
-- Microcontroller firmware experiments
-- Hardware security testing setups
-- Embedded Linux utilities
+- Pentesting gadgets
+- Smart home systems
+- Good old HTML webpages
+- Linux utilities
 
 ---
 
