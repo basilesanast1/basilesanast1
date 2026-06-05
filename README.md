@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**basilesanast1/basilesanast1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and hardware enthusiast focused on **security, embedded systems, and making things that actually run in the real world**. I make software because I can, and because it's really fun.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Interests
+
+- 🕵️ Pentesting & offensive security
+- 🔌 Hardware security & reverse engineering
+- 🤖 Microcontrollers & embedded systems
+- 🖨️ 3D printing & hardware prototyping
+- 💻 General coding & automation
+
+---
+
+## ⚙️ Current Focus
+
+- Embedded security research
+- Microcontroller-based tools & devices
+- Hardware hacking projects
+
+---
+
+## 🧰 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github)
+
+---
+
+## 🧪 Projects Ideas (What I'm working on / building)
+
+- USB-based automation tools for testing
+- Microcontroller firmware experiments
+- Hardware security testing setups
+- Embedded Linux utilities
+
+---
+
+## 📫 Contact
+
+- Email: basilesanast1@protonmail.com
+
+---
+
+⚡ Software that is hard to install, is basically hardware (pun intended)
