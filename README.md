@@ -16,7 +16,7 @@ I'm a developer, hardware enthusiast and overall a typical high schooler. Someti
 
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github,bots,html)
+![Skills](https://skillicons.dev/icons?i=python,linux,arduino,raspberrypi,bash,git,github,bots,html,replit)
 
 ---
 
